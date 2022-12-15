@@ -1,1 +1,1 @@
-# class_activities_gwu
+# class-activities-gwu
