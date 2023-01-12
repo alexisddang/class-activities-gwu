@@ -24,6 +24,7 @@ ul {
 img {
     width: 20px;
     padding-left: 5px;
+    transform: rotateX(180deg);
 }
 
 li {
