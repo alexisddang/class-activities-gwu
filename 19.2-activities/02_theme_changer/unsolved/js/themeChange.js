@@ -6,4 +6,4 @@ $(".themeChange").on("click", function(){
     } else {
         $("#theme").attr("href", "css/dark.css");
     }
-})
+});
