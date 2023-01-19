@@ -3,8 +3,11 @@
 }
 .toggleContainer {
   padding: 15px;
-  display: none;
+  display: none; 
   transition: all;
+}
+.toggleContainer:target {
+  padding: 0;
 }
 .hiddenSlide {
   display: none;
