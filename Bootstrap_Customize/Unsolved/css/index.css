@@ -1,3 +1,13 @@
+@font-face {
+  font-family: Anton;
+  src: url(../fonts/Anton-Regular.ttf);
+}
+
+@font-face {
+  font-family: Jura;
+  src: url(../fonts/Jura-VariableFont_wght.ttf);
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Anton', sans-serif;
 }
@@ -47,6 +57,25 @@ p {
 
 .navCTA {
   font-size: 15px;
+}
+
+.jumbotron {
+  background-image: url(../images/rockOn_dark.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  height: calc(100vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.jumboCopy {
+  width: 70%;
+  min-width: 500px;
+  max-width: 700px;
+  color: white;
+  text-align: center;
 }
 
 footer {
