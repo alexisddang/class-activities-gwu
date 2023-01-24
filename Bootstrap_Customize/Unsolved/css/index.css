@@ -78,6 +78,22 @@ p {
   text-align: center;
 }
 
+.content {
+  padding: 50px;
+}
+
+.sectionHeading {
+  text-align: center;
+}
+
+.showsNear {
+  padding: 0px 30px 30px 30px;
+}
+
+.cardContainer {
+  text-align: center;
+}
+
 footer {
   position: absolute;
   width: 100%;
