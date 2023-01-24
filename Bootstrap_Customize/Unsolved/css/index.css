@@ -84,6 +84,24 @@ p {
   text-align: center;
 }
 
+.valueProp {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.sideAccent {
+  background: #007bff;
+  width: 15px;
+}
+
+.imageContainer {
+  padding: 50px;
+}
+
+.imageContainer img {
+  width: 100%;
+}
+
 footer {
   position: absolute;
   width: 100%;
